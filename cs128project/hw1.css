@@ -1,0 +1,54 @@
+body{
+	background-color: #FFE4E1;
+	font-family: sans-serif;
+
+}
+
+h1{
+	color: #191970;
+	text-align:center;
+}
+
+h2{
+	color: #663399;
+	text-decoration: underline;
+}
+
+p{
+	font-size: 20px;
+	color: hsl(0, 60%, 50%);
+	border: 2px dashed dodgerBlue;
+	width: 80%;
+	margin: 0 auto;
+	margin-top: 1%; 
+}
+
+ul{
+  background: rgba(255, 99, 71, 0.5);
+  padding: 20px;
+  width: auto;
+  list-style-type: square;
+}
+
+a{
+	color: black;
+	text-decoration: inherit;
+	font-size: 20px;
+}
+dd{
+	color:Gray;
+}
+
+img{
+	width: 19%;
+	display: inline;
+	
+}
+
+#aboutM{
+	display: inline;
+	float: right;
+
+}
+
+
